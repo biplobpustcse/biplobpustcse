@@ -3,7 +3,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/biplobpustcse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/biplobpustcse/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/biplobpustcse)  
 ### Hi there 👋, my name is Biplob
 #### I am Full stack Software Engineer | C# .NET, Angular, MSSql
-![I am Full stack Software Engineer | C# .NET, Angular, MSSql](https://media-exp1.licdn.com/dms/image/C5616AQGC4UmbOh2ppg/profile-displaybackgroundimage-shrink_350_1400/0/1664019633700?e=1675900800&v=beta&t=rA4db0O3mHp6d9Flxg8GZvLuoMW4lsVZ6w4-LjL_mCk)
+![I am Full stack Software Engineer | C# .NET, Angular, MSSql](https://media.licdn.com/dms/image/D5616AQHZwrWZy095Pg/profile-displaybackgroundimage-shrink_350_1400/0/1675708653491?e=1681344000&v=beta&t=5PrMbqjDQJsdVX59PsUs_JRNI7nrnwE5lFoqMv0_J4k)
 
 I want to work in a position where dynamism is the key concern and has enough scope to utilize my potentials and experience along with the proper use of my technical skills, hard work and honesty.
 
