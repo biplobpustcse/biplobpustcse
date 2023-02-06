@@ -9,10 +9,10 @@ I want to work in a position where dynamism is the key concern and has enough sc
 
 Skills: C# .NET | Angular | Typescript | angularJs | JavaScript | Mssql
 
-- 🔭 I’m currently working on Media Soft Data System Limited 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about C# .NET, Angular, MSSql 
+- 🔭 I’m currently working on Media Soft Data System Limited as a Sr. Software Engineer
+- 🌱 I’m currently learning TypeScript 
+- 👯 I’m looking to collaborate on Node.js 
+- 💬 Ask me about TypeScript,JavaScript,C# .NET, Angular, MSSql 
 
 
 
