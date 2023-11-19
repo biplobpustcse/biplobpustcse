@@ -1,6 +1,6 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/biplobpustcse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/biplobpustcse/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/biplobpustcse)  
-### Hi there 👋, my name is Biplob
+### Hi there 👋, this is Biplob
 #### Software Engineer C# | .NET | Web API | EF Core | MS SQL | PostgreSQL | MongoDB | Angular, Typescript, | Unit Testing | Problem Solving | Git | Microservice | AWS | Azure Service Bus | System Design
 ![I am Senior Software Engineer](https://media.licdn.com/dms/image/D5616AQGIMbISAHvwgA/profile-displaybackgroundimage-shrink_350_1400/0/1699757084482?e=1706140800&v=beta&t=NxvOMF42h10i76CLWYUHVD5T-57QLTk-5seiu9ljMAM)
 
