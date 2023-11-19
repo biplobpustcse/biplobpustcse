@@ -2,7 +2,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/biplobpustcse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/biplobpustcse/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/biplobpustcse)  
 ### Hi there 👋, my name is Biplob
 #### Software Engineer C# | .NET | Web API | EF Core | MS SQL | PostgreSQL | MongoDB | Angular, Typescript, | Unit Testing | Problem Solving | Git | Microservice | AWS | Azure Service Bus | System Design
-![I am Senior Software Engineer](https://media.licdn.com/dms/image/D5616AQHYKc_yxuefVw/profile-displaybackgroundimage-shrink_350_1400/0/1675708851439?e=1696464000&v=beta&t=XqZTa2GhvVHMPwQWIAE1tLQOSHq0ozeUpVQOs3cxmos)
+![I am Senior Software Engineer](https://media.licdn.com/dms/image/D5616AQGIMbISAHvwgA/profile-displaybackgroundimage-shrink_350_1400/0/1699757084482?e=1706140800&v=beta&t=NxvOMF42h10i76CLWYUHVD5T-57QLTk-5seiu9ljMAM)
 
 I’m an enthusiastic software engineer with 7+ years of extensive experience and currently working as a Sr. Software Engineer and developing applications using C# .NET, MS SQL, typescript, angular, react.js. Having fascination to learn new technology and the ability to quickly grab new technology.
 
