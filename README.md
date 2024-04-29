@@ -1,16 +1,12 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/biplobpustcse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/biplobpustcse/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/biplobpustcse)  
 ### Hi there 👋, this is Biplob
-#### Software Engineer C# | .NET | Web API | EF Core | MS SQL | PostgreSQL | MongoDB | Angular, Typescript, | Unit Testing | Problem Solving | Git | Microservice | AWS | Azure Service Bus | System Design
+#### Software Engineer | C# | .NET Core | MS SQL | PostgreSQL | Typescript | Microservice | Docker | Kubernetes | System Design
 ![I am Senior Software Engineer](https://media.licdn.com/dms/image/D5616AQGIMbISAHvwgA/profile-displaybackgroundimage-shrink_350_1400/0/1699757084482?e=1706140800&v=beta&t=NxvOMF42h10i76CLWYUHVD5T-57QLTk-5seiu9ljMAM)
 
-I’m an enthusiastic software engineer with 7+ years of extensive experience and currently working as a Sr. Software Engineer and developing applications using C# .NET, MS SQL, typescript, angular, react.js. Having fascination to learn new technology and the ability to quickly grab new technology.
+Highly skilled and motivated Developer with over 5 years of experience in building high-quality, scalable, large-scale complex systems using Microsoft .NET,C#,ASP.NET Core and SQL. Adept at developing cloud-native applications and services, particularly on the Azure platform. Proven expertise in web application development, with hands-on experience using JavaScript. Strong focus on quality control, continuous learning, self-improvement and the ability to quickly grab new technology. Effective communicator with a keen understanding of user needs and a commitment to delivering scalable, high-load, and cloud-native solutions.
 
-I'm always ready to take new challenges and look for the best possible solution with the best time complexity by writing precise, clean and reusable code. Optimizing my time and organizing projects using productive tools are my favorite things to do which help me to speed up my workflow and ultimately make me a productive person in my daily life.
-
-Having strong understanding on Object Oriented Programming (OOP), SOLID Principles, Design Pattern, Coding Standards and Best practices. I have also a good understanding of Microservice Architecture.
-
-Skills: C# | .NET | Web API | EF Core | MS SQL | PostgreSQL | MongoDB | Angular, Typescript, | Unit Testing | Problem Solving | Git | Microservice | AWS | Azure Service Bus | System Design
+Skills: C# | .NET Core | SQL | Angular, Typescript, | Unit Testing | Problem Solving | Git | Microservice | AWS | Azure | System Design
 
 - 🔭 I’m currently working on Media Soft Data System Limited as a Sr. Software Engineer
 - 👯 I’m looking to collaborate on system design.
