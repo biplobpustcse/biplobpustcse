@@ -4,7 +4,7 @@
 #### Senior Software Engineer | C# | .NET Core | SQL | NoSQL | Typescript | Microservice & Cloud Solutions (AWS, Azure) | Docker | Kubernetes
 ![I am Senior Software Engineer](https://media.licdn.com/dms/image/v2/D5616AQGIMbISAHvwgA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1699757084482?e=1753315200&v=beta&t=x_xJqCMlu4NfoOLV8DmatEpioRA5eewy5L8G5oR2CsU)
 
-Highly skilled and motivated Developer with over 7 years of experience in building high-quality, scalable, large-scale complex systems using Microsoft .NET,C#,ASP.NET Core and SQL. Adept at developing cloud-native applications and services, particularly on the Azure platform. Proven expertise in web application development, with hands-on experience using JavaScript. Strong focus on quality control, continuous learning, self-improvement and the ability to quickly grab new technology. Effective communicator with a keen understanding of user needs and a commitment to delivering scalable, high-load, and cloud-native solutions.
+Highly skilled and motivated Developer with over 8 years of experience in building high-quality, scalable, large-scale complex systems using Microsoft .NET,C#,ASP.NET Core and SQL. Adept at developing cloud-native applications and services, particularly on the Azure platform. Proven expertise in web application development, with hands-on experience using JavaScript. Strong focus on quality control, continuous learning, self-improvement and the ability to quickly grab new technology. Effective communicator with a keen understanding of user needs and a commitment to delivering scalable, high-load, and cloud-native solutions.
 
 📫 Reach me out! [LinkedIn](https://www.linkedin.com/in/biplobpustcse)
 
